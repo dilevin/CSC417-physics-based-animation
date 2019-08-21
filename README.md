@@ -1,4 +1,4 @@
-# Physics-based Animation __CSC2549 Fall 2019__
+# Physics-based Animation __CSC2549 *Fall 2019*__
 
 - [Lectures](#Lectures)
 - [Course Overview](#courseoverview)
