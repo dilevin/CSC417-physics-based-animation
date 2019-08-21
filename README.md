@@ -3,10 +3,10 @@
 
 - [Lectures](#Lectures)
 - [Course Overview](#course-overview)
-- [Resources](#helpfulresources )
-- [Lecture Schedule](#lectureschedule)
+- [Resources](#helpful-resources )
+- [Lecture Schedule](#lecture-schedule)
 - [Grading](#grading)
-- [Lateness Policy](#latenesspolicy)
+- [Lateness Policy](#lateness-policy)
 
 ## Instructors
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
