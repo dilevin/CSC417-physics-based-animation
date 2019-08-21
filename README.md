@@ -2,7 +2,7 @@
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
 - [Lectures](#Lectures)
-- [Course Overview](#CourseOverview)
+- [Course Overview](#course-verview)
 - [Resources](#helpfulresources )
 - [Lecture Schedule](#lectureschedule)
 - [Grading](#grading)
