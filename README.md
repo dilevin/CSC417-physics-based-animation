@@ -50,7 +50,7 @@ programming in basic C++.
 
 [Real Time Physics (Website)](http://matthias-mueller-fischer.ch/realtimephysics/)  
   
-[FEM Simulation of 3D Deformable Solids (Website)](www.femdefo.org)
+[FEM Simulation of 3D Deformable Solids (Website)](http://www.femdefo.org)
   
 ## Lecture Schedule
 
