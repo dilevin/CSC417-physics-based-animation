@@ -1,4 +1,5 @@
 # Physics-based Animation __CSC2549 *Fall 2019*__
+![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
 - [Lectures](#Lectures)
 - [Course Overview](#courseoverview)
