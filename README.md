@@ -46,7 +46,7 @@ programming in basic C++.
 
 [Fluid Simulation for Graphics (Book)](https://dl.acm.org/citation.cfm?id=1457699)   
 
-[Real-time Collision Detection (Book)]()
+[Real-time Collision Detection (Book)](https://dl.acm.org/citation.cfm?id=1121584)
 
 [Real Time Physics (Website)](http://matthias-mueller-fischer.ch/realtimephysics/)  
   
