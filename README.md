@@ -28,12 +28,8 @@ Wednesdays 15:00-17:00 in Wilson Hall (WI 524)
 
 ## Course Overview
 
-This course is designed to introduce students to the field of physics-based animation by exposing  them to the underlying mathematical and algorithmic techniques required to understand and develop efficient numerical simulations of physical phenomena such as rigid bodies, deformable bodies and fluids. Students should have a strong background in Linear Algebra and Multivariate Calculus. Familiarity with Convex Optimization and Differential Geometry is a plus, but not required.
+This course is designed to introduce students to the field of physics-based animation by exposing  them to the underlying mathematical and algorithmic techniques required to understand and develop efficient numerical simulations of physical phenomena such as rigid bodies, deformable bodies and fluids. In Physics-Based Animation we will learn how to develop algorithms that produce visually compelling representations of physical systems.  We will learn the underlying continuous mathematics describing the motion of physical objects, explore how to discretize them and how to solve the resulting discrete equations quickly and robustly. 
   
-In Physics-Based Animation we will learn how to develop algorithms that produce visually compelling representations of physical systems.  We will learn the underlying continuous mathematics describing the motion of physical objects, explore how to discretize them and how to solve he resulting discrete equations quickly and robustly. 
-  
-Topics covered include rigid body simulation, elasticity simulation, cloth simulation, collision detection and resolution and fluid simulation. Along the way, we will explore the underlying mathematics of ordinary differential equations, discrete time integration, finite element methods and more. 
-
 **Prerequisites:** C/C++ Programming, Linear Algebra, Calculus, Numerical
 Methods 
 
