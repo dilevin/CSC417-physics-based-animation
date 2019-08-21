@@ -3,7 +3,7 @@
 
 - [Lectures](#Lectures)
 - [Course Overview](#courseoverview)
-- [Required Textbook](#requiredtextbook)
+- [Resources](#helpfulresources )
 - [Lecture Schedule](#lectureschedule)
 - [Grading](#grading)
 - [Lateness Policy](#latenesspolicy)
