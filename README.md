@@ -24,7 +24,7 @@ Wednesdays 15:00-17:00 in Wilson Hall (WI 524)
 
 ## Links
 
-- [Bulletin Board -- COMING SOON](https://bb-2019-01.teach.cs.toronto.edu/c/csc2549)
+- **Bulletin Board -- COMING SOON**
 
 ## Course Overview
 
