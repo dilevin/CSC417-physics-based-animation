@@ -70,7 +70,7 @@ programming in basic C++.
 | 11   | Special Lecture 
 | 12   | Final Project Presentations 
 
-[Academic Honesty (required reading)](#academichonesty)
+[Academic Honesty (required reading)](#academic-honesty)
 
 ## Grading
 
