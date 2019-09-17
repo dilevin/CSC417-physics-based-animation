@@ -26,6 +26,8 @@ Wednesdays 15:00-17:00 in Wilson Hall (WI 524)
 
 - **Bulletin Board -- COMING SOON**
 
+Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc2549-2019-09/en/main).
+
 ## Course Overview
 
 This course is designed to introduce students to the field of physics-based animation by exposing  them to the underlying mathematical and algorithmic techniques required to understand and develop efficient numerical simulations of physical phenomena such as rigid bodies, deformable bodies and fluids. In Physics-Based Animation we will learn how to develop algorithms that produce visually compelling representations of physical systems.  We will learn the underlying continuous mathematics describing the motion of physical objects, explore how to discretize them and how to solve the resulting discrete equations quickly and robustly. 
