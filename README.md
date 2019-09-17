@@ -26,7 +26,7 @@ Wednesdays 15:00-17:00 in Wilson Hall (WI 524)
 
 - **Bulletin Board -- COMING SOON**
 
-Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc2549-2019-09/en/main).
+Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc2549-2019-09/).
 
 ## Course Overview
 
