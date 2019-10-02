@@ -61,7 +61,7 @@ programming in basic C++.
 | 1    | [Introduction, the 1D mass-spring system](lectures/01-Intro-plain_edited-min.pdf), [Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC2549-a1-mass-spring-1d) due 27/09    
 | 2    | [Explicit and implicit time integration](lectures/02-Time-Integration_edited.pdf)  
 | 3    | [Mass-spring systems in three dimensions](lectures/03-Mass-Spring-3d-edited.pdf), [Assignment 2 (3D mass-springs)](https://github.com/dilevin/CSC2549-a2-mass-spring-3d) due 04/10  
-| 4    | Finite Elements for simulating nonlinear elastodynamics of solids, Assignment 3 (3D FEM) due 11/10  
+| 4    | Finite Elements for simulating nonlinear elastodynamics of solids, [Assignment 3 (3D FEM)](https://github.com/dilevin/CSC2549-a3-finite-elements-3d) due 11/10  
 | 5    | Finite Elements for simulating cloth and shells, Assignment 4 (Cloth simulation) due 18/10  
 | 6    | Fluid simulation using Finite Volume Methods  
 | 7    | Rigid body mechanics, Assignment 5 (Rigid body simulation) due 01/11  
