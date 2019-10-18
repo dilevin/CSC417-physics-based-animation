@@ -63,7 +63,7 @@ programming in basic C++.
 | 3    | [Mass-spring systems in three dimensions](lectures/03-Mass-Spring-3d-edited.pdf), [Assignment 2 (3D mass-springs)](https://github.com/dilevin/CSC2549-a2-mass-spring-3d) due 04/10  
 | 4    | [Finite Elements for simulating nonlinear elastodynamics of solids](lectures/04-finite-elements-3d-edited.pdf), [Assignment 3 (3D FEM)](https://github.com/dilevin/CSC2549-a3-finite-elements-3d) due ~~11/10~~ 18/10  
 | 5    | [Finite Elements for simulating nonlinear elastodynamics of solids II](lectures/05-finite-elements-continued-edited.pdf), [Assignment 4 (Cloth simulation)](https://github.com/dilevin/CSC2549-a4-cloth-simulation) due ~~18/10~~ 25/10  
-| 6    | Finite Elements for simulating cloth and shells ~~Fluid simulation using Finite Volume Methods~~  
+| 6    | [Finite Elements for simulating cloth and shells](lectures/06-cloth-simulation-edited.pdf) ~~Fluid simulation using Finite Volume Methods~~  
 | 7    | Rigid body mechanics, Assignment 5 (Rigid body simulation) due 01/11  
 | **October 28** | Drop date (consider if grade so far is <50%)  
 | 8    | Jointed Rigid Body Systems 
