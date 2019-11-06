@@ -67,7 +67,7 @@ programming in basic C++.
 | 7    | [Rigid body mechanics](lectures/07-rigid-bodies-edited.pdf), [Assignment 5 (Rigid body simulation)](https://github.com/dilevin/CSC2549-a5-rigid-bodies) due ~~01/11~~ 8/11  
 | **October 28** | Drop date (consider if grade so far is <50%)  
 | 8    | Jointed Rigid Body Systems 
-| 9    | Collision detection and contact resolution, Assignment 6 (Rigid body collision resolution) due ~~08/11~~ 15/11  
+| 9    | Collision detection and contact resolution, [Assignment 6 (Rigid body collision resolution)](https://github.com/dilevin/CSC2549-a6-rigid-body-contact) due ~~08/11~~ 15/11  
 | 10   | Fast algorithms for physics-based animation 
 | 11   | Fluid simulation using Finite Volume Methods ~~Special Lecture~~
 | 12   | Final Project Presentations 
