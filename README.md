@@ -1,32 +1,41 @@
-# Physics-based Animation __CSC2549 *Fall 2019*__
+# CSC417/CSC2549 - Physics-based Animation *Fall 2020*__
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
-- [Lectures](#Lectures)
-- [Course Overview](#course-overview)
-- [Resources](#helpful-resources )
-- [Lecture Schedule](#lecture-schedule)
-- [Grading](#grading)
-- [Lateness Policy](#lateness-policy)
+- [CSC417/CSC2549 - Physics-based Animation *Fall 2020*__](#csc417csc2549---physics-based-animation-fall-2020__)
+  - [Instructors](#instructors)
+  - [TA](#ta)
+  - [Lectures](#lectures)
+  - [Links](#links)
+  - [Course Overview](#course-overview)
+  - [Helpful Resources](#helpful-resources)
+  - [Lecture Schedule](#lecture-schedule)
+  - [Final Project](#final-project)
+  - [Grading](#grading)
+  - [Lateness Policy](#lateness-policy)
+    - [Academic Honesty](#academic-honesty)
+    - [Email & Bulletin Board Traffic](#email--bulletin-board-traffic)
 
 ## Instructors
-Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
-diwlevin@cs.toronto.edu  
-+1 416-978-2052  
 
-Office Hours: Wednesdays 17:00-18:00 in BA5268
+Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
+Email: diwlevin@cs.toronto.edu
 
 ## TA  
-Derek Liu
-hsuehtil@cs.toronto.edu
+
+Vismay Modi  
+Honglin Chen
+
+Email Instructor and TAs: csc417tas@cs.toronto.edu
 
 ## Lectures
-Wednesdays 15:00-17:00 in Wilson Hall (WI 524) 
+
+Tuesdays 16:00-17:00 on Zoom  
+Wednesday 14:00-15:00 on Zoom  
+**Zoom link will be emailed to registered students**
 
 ## Links
 
-Bulletin Board using [Discourse](https://bb-2019-09.teach.cs.toronto.edu/c/csc2549)
-
-Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc2549-2019-09/).
+Hand in assignments using **MarkUs (Link Coming Soon)**
 
 ## Course Overview
 
@@ -55,40 +64,54 @@ programming in basic C++.
 [FEM Simulation of 3D Deformable Solids (Website)](http://www.femdefo.org)
   
 ## Lecture Schedule
-
+**NOTE: Video and Assignment links will go live as the course progresses**  
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | [Introduction, the 1D mass-spring system](lectures/01-Intro-plain_edited-min.pdf), [Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC2549-a1-mass-spring-1d) due 27/09    
-| 2    | [Explicit and implicit time integration](lectures/02-Time-Integration_edited.pdf)  
-| 3    | [Mass-spring systems in three dimensions](lectures/03-Mass-Spring-3d-edited.pdf), [Assignment 2 (3D mass-springs)](https://github.com/dilevin/CSC2549-a2-mass-spring-3d) due 04/10  
-| 4    | [Finite Elements for simulating nonlinear elastodynamics of solids](lectures/04-finite-elements-3d-edited.pdf), [Assignment 3 (3D FEM)](https://github.com/dilevin/CSC2549-a3-finite-elements-3d) due ~~11/10~~ 18/10  
-| 5    | [Finite Elements for simulating nonlinear elastodynamics of solids II](lectures/05-finite-elements-continued-edited.pdf), [Assignment 4 (Cloth simulation)](https://github.com/dilevin/CSC2549-a4-cloth-simulation) due ~~18/10~~ ~~25/10~~ 1/11  
-| 6    | [Finite Elements for simulating cloth and shells](lectures/06-cloth-simulation-edited.pdf) ~~Fluid simulation using Finite Volume Methods~~  
-| 7    | [Rigid body mechanics](lectures/07-rigid-bodies-edited.pdf), [Assignment 5 (Rigid body simulation)](https://github.com/dilevin/CSC2549-a5-rigid-bodies) due ~~01/11~~ 8/11  
-| **October 28** | Drop date (consider if grade so far is <50%)  
-| 8    | [Jointed Rigid Body Systems](lectures/08-rigid-bodies-and-joints-edited.pdf)
-| 9    | ~~Collision detection and contact resolution~~, [Assignment 6 (Rigid body collision resolution)](https://github.com/dilevin/CSC2549-a6-rigid-body-contact) due ~~08/11~~ 15/11  
-| 10   | [Collision Detection, Contact Resoution and Fast algorithms for physics-based animation](lectures/10-rigid-body-contanct-fast-solvers-edit.pdf) 
-| 11   | ~~Fluid simulation using Finite Volume Methods~~ ~~Special Lecture~~
-| 12   | Final Project Presentations 
+| 1    | **Reading**<br>Academic Policy<br>Grading Scheme<br>Late Policy<br>**Videos**<br>The 1D mass-spring system (coming soon)<br>**Research Highlight**<br>Fast Mass-Spring Systems (coming soon)<br>**Assignment 1 (1D mass-springs) due 2/10**
+| 2    | **Video**<br>Explicit and implicit time integration<br>**Working on A1**
+| 3    | **Video**<br>Mass-spring systems in three dimensions<br>**Assignment 2 (3d mass-springs) due 9/10**
+| 4    | **Videos**<br>Finite Elements for Solids I<br>Gradients and Hessians  with MATLAB’s Symbolic Toolkit<br>**Assignment 3 (3d FEM) due 23/10**
+| 5    | **Video**<br>Finite Elements for Solids II<br>**Working on A3**
+| 6    | **Video**<br>Finite Elements for simulating cloth and shells<br>**Assignment 4 Finite Elements for Cloth Simulation due (6/11)**
+| 7    | *Tutorial Only (Catch up, last minute questions about Assignments 1-4)*
+| 8    | **Video**<br>Rigid body mechanics<br>**Assignment 5 (Rigid body simulation) due (20/11)**
+| **November 9** | *Drop date (consider if grade so far is <50%)*
+| 9    | **Video**<br>Jointed Rigid Body Systems<br>**Work on A5**
+| 10   | **Video**<br>Rigid Body Collision<br>**Assignment 6 (Collision Resolution) due (4/12)**
+| 11   | **Video**<br>Fluid Simulation<br>**Research Highlight**<br>Variational Stokes (coming soon)<br>**Work on A6**
+| 12   | *Tutorial Only (Last Minute Questions about A5-6, Final Project)*
 
 [Academic Honesty (required reading)](#academic-honesty)
+
+## Final Project
+The final project should involve implementing a physics-simulation of any kind. It can be an algorithm from a paper or a new algorithm altogether. You can write the code from scratch or extend one of the course assignments. Projects can be done individually or in groups of two. The expectation is that the amount of work per-group member is equivalent, thus two person groups should be more ambitious in their project plans. 
+
+**Deliverable:** The code for your algorithm (in Python, C++ or MATLAB) along with instructions to compile and run the implementation. A **two (2) page** writeup of the algorithm in the style of a short SIGGRAPH paper. A **5-minute** SIGGRAPH style video showing the results of your method.  
+
+**Due Date:** December 21st at 11:59pm.  
 
 ## Grading
 
 | % | Item |
 | ----: | :-------------- |
-| 60% | Assignments
-| 10% | Class Participation 
-| 30% | Final Project 
-
-There will be six programming assignments in total (10% each).
+| 60% | Assignments (top 5 of 6)
+| 40% | Final Project 
 
 ## Lateness Policy
+
+**Please read, this course has an involved late policy aimed at giving you maximum flexibility in scheduling your semester**
 
 Assignments are **_due by 11:59pm_** on the due date.
 
 0.007% off for every minute late.
+
+Assignments 1,2,3,4 must be handed in by **November 16th at 11:59 pm**.  
+Assignments 5 and 6 must be handed in by **December 10th at 11:59 pm**.  
+The final project must be handed in by **December 21st at 11:59 pm**. 
+These dates are not extendable. 
+
+However, every student will be given **twenty-one (21) days** of late credits which are automatically applied to all other deadlines aside from the ones above.   
+Students who hand in their assignments on the due dates in the [schedule](#lecture-schedule) above will be awarded a **five (5) percent** bonus on the assignment grade up to a maximum score of **one-hundred (100) percent**.  
 
 ### Academic Honesty
 
@@ -102,7 +125,7 @@ wont have to cheat!
 
 For purposes of this class, academic dishonesty is defined as:
 
-- Any attempt to pass off work on a test that didn't come straight out of your
+- Any attempt to pass off work on an assignment that didn't come straight out of your
   own head.
 - Any collaboration on written or programming assignments (its ok to share ideas
   on programming assignments but the code MUST be your own) in which the
@@ -115,17 +138,13 @@ For purposes of this class, academic dishonesty is defined as:
 
 ### Email & Bulletin Board Traffic
 
-- Please do not send email directly to the TAs. They will not be replied.
-- Main forum for answering questions about class or about the assignments is the
-  class bulletin board. The TAs will be monitoring the board.
-- Appropriate use of the board: clarifications on assignment, on lecture
+- Use GitHub issues for answering questions about class subject matter or about the assignments. The TAs and the instructor will monitor the issues pages. Email sent to the instructor or TAs regarding these matters will be ignored. 
+- Remark requests will be handled through MarkUs. 
+- Appropriate use of issues page: clarifications on assignment, on lecture
   material, general concerns about the course, or other remarks that are
   appropriate for all students to see/participate in.
 - Do NOT broadcast pieces of your code or answers to written assignments to the
-  bulletin board. Specific or general implementation questions whose answer
-  would benefit all students in the class are appropriate. However: the bulletin
-  board is NO replacement for the tutorial hour. That should be the main forum
-  for asking/answering questions of this sort.
+   issues page. Specific or general implementation questions whose answer
+  would benefit all students in the class are appropriate.
 - Questions of the form "I cannot find the problem with my code; here it is, can
-  you help me" are unlikely to be replied, so don't count on it. If you have a
-  question with code, take it to the TA office hours or to the tutorials.
+  you help me" are unlikely to be replied, so don't count on it. 
