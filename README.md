@@ -63,7 +63,7 @@ programming in basic C++.
   
 [FEM Simulation of 3D Deformable Solids (Website)](http://www.femdefo.org)
   
-## Lecture Schedule
+## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment links will go live as the course progresses**  
 | Week | Topic / Event |
 | ---- | :------------ |
