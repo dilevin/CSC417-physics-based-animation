@@ -67,7 +67,7 @@ programming in basic C++.
 **NOTE: Video and Assignment links will go live as the course progresses**  
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | **Reading**<br>Academic Policy<br>Grading Scheme<br>Late Policy<br>**Videos**<br>The 1D mass-spring system (coming soon)<br>**Research Highlight**<br>Fast Mass-Spring Systems (coming soon)<br>**Assignment 1 (1D mass-springs) due 2/10**
+| 1    | **Reading**<br>Academic Policy<br>Grading Scheme<br>Late Policy<br>**Videos**<br>The 1D mass-spring system (coming soon)<br>**Research Highlight**<br>Fast Mass-Spring Systems (coming soon)<br>**[Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC417-a1-mass-spring-1d) due 2/10**
 | 2    | **Video**<br>Explicit and implicit time integration<br>**Working on A1**
 | 3    | **Video**<br>Mass-spring systems in three dimensions<br>**Assignment 2 (3d mass-springs) due 9/10**
 | 4    | **Videos**<br>Finite Elements for Solids I<br>Gradients and Hessians  with MATLAB’s Symbolic Toolkit<br>**Assignment 3 (3d FEM) due 23/10**
