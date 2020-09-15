@@ -35,7 +35,7 @@ Wednesday 14:00-15:00 on Zoom
 
 ## Links
 
-Hand in assignments using **MarkUs (Link Coming Soon)**
+Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc417-2020-09)
 
 ## Course Overview
 
