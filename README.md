@@ -53,6 +53,8 @@ programming in basic C++.
 ## Helpful Resources  
 [The Variational Principles of Mechanics (Book)](https://search.library.utoronto.ca/details?1576571&uuid=24e9601f-a561-440e-b4f7-0162225ae73d)  
 
+[Calculus of Variations](https://books.google.ca/books/about/Calculus_of_Variations.html?id=YkFLGQeGRw4C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+
 [Numerical Methods for Evolutionary Differential Equations (Book) ](https://search.library.utoronto.ca/details?8723030)
 
 [Fluid Simulation for Graphics (Book)](https://dl.acm.org/citation.cfm?id=1457699)   
