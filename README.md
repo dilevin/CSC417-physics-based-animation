@@ -74,7 +74,7 @@ programming in basic C++.
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | **Reading**<br>[Academic Policy](#academic-honesty)<br>[Grading Scheme](#grading)<br>[Late Policy](#lateness-policy)<br>**Videos**<br>[Introduction](https://www.youtube.com/watch?v=5j37DOD8q4U)<br>**Research Highlight**<br>[Fast Mass-Spring Systems](https://www.cs.utah.edu/~ladislav/liu13fast/liu13fast.html)<br>**[Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC417-a1-mass-spring-1d) due 2/10**
-| 2    | **Video**<br>Explicit and implicit time integration<br>**Working on A1**
+| 2    | **Research Highlight**<br>[Discrete Elastic Rods](http://www.cs.columbia.edu/cg/rods/)**Video**<br>Explicit and implicit time integration<br>**Working on A1**
 | 3    | **Video**<br>Mass-spring systems in three dimensions<br>**[Assignment 2 (3d mass-springs)](https://github.com/dilevin/CSC417-a2-mass-spring-3d) due 9/10**
 | 4    | **Videos**<br>Finite Elements for Solids I<br>Gradients and Hessians  with MATLAB’s Symbolic Toolkit<br>**Assignment 3 (3d FEM) due 23/10**
 | 5    | **Video**<br>Finite Elements for Solids II<br>**Working on A3**
