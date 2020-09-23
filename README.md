@@ -38,7 +38,7 @@ Wednesday 14:00-15:00 on Zoom
 
 ## Links
 
-Discussion board using [Piazza](piazza.com/utoronto.ca/fall2020/csc417)  
+Discussion board using [Piazza](https://piazza.com/utoronto.ca/fall2020/csc417)  
 Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc417-2020-09).   
 Using OpenGL on CDF Machines via [VirtualGL](https://www.teach.cs.toronto.edu/using_cdf/vgl.html). 
 
