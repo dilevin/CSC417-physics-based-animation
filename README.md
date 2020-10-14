@@ -70,6 +70,8 @@ programming in basic C++.
 [FEM Simulation of 3D Deformable Solids (Website)](http://www.femdefo.org)
 
 [Matrix and Linear Algebra Identities](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+[Geometric Tools](https://www.geometrictools.com)
   
 ## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment links will go live as the course progresses**  
