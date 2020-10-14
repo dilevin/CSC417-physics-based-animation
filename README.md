@@ -72,6 +72,8 @@ programming in basic C++.
 [Matrix and Linear Algebra Identities (PDF)](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 [Geometric Tools (Website)](https://www.geometrictools.com)
+
+[Material Point Method SIGGRAPH Course (PDF)](https://www.seas.upenn.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
   
 ## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment links will go live as the course progresses**  
