@@ -83,7 +83,7 @@ programming in basic C++.
 | 2    | **Video**<br>[Explicit and implicit time integration](https://youtu.be/wpZe1PI7uhQ)<br>[**Slides**](lectures/02-time-integration_final.pdf)<br>**Research Highlight**<br>[Discrete Elastic Rods](http://www.cs.columbia.edu/cg/rods/)<br>**Working on A1**
 | 3    | **Video**<br>[Mass-spring systems in three dimensions](https://youtu.be/9DcKg77nQBA)<br>[**Slides**](lectures/03-Mass-Spring-3d-final.pdf)<br>**Research Highlight**<br>[Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf)<br>**[Assignment 2 (3d mass-springs)](https://github.com/dilevin/CSC417-a2-mass-spring-3d) due 9/10**
 | 4    | **Videos**<br>[Finite Elements for Solids I](https://www.youtube.com/watch?v=ngaYNdNtbec&t=1s)<br>[Gradients and Hessians  with MATLAB’s Symbolic Toolkit](https://www.youtube.com/watch?v=fqGNoUV67lI&t=1s)<br>[Avengers:Endgame Simulation Breakdown **SPOILER WARNING**](https://www.youtube.com/watch?v=51w4ZB_s528)<br>[**Slides**](lectures/04-finite-elements-I-final.pdf)<br>**Research Highlight**<br>[Position-Based Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S1047320307000065)<br>**[Assignment 3 (3d FEM)](https://github.com/dilevin/CSC417-a3-finite-elements-3d) due 23/10**
-| 5    | **Video**<br>Finite Elements for Solids II<br>**Working on A3**
+| 5    | **Video**<br>[Finite Elements for Solids II](https://youtu.be/RsdyeUyWss0)<br>**Working on A3**
 | 6    | **Video**<br>Finite Elements for simulating cloth and shells<br>**Assignment 4 Finite Elements for Cloth Simulation due (6/11)**
 | 7    | *Tutorial Only (Catch up, last minute questions about Assignments 1-4)*
 | 8    | **Video**<br>Rigid body mechanics<br>**Assignment 5 (Rigid body simulation) due (20/11)**
