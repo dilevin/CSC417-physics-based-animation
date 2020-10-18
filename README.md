@@ -124,7 +124,8 @@ The final project must be handed in by **December 21st at 11:59 pm**.
 
 Extensions to the dates above can only be issued by the instructor.
 
-**THERE ARE NO LATE PENALTIES APPLIED TO ANY OTHER DEADLINES ASIDE FROM THE THREE (3) DEADLINES DIRECTLY ABOVE THIS TEXT**
+**THERE ARE NO LATE PENALTIES APPLIED TO ANY OTHER DEADLINES ASIDE FROM THE THREE (3) DEADLINES DIRECTLY ABOVE THIS TEXT**. 
+
 ~~However, every student will be given **twenty-one (21) days** of late credits which are automatically applied to all other deadlines aside from the ones above. 
 
 Students who hand in their assignments on the due dates in the [schedule](#lecture-schedule) above will be awarded a **five (5) percent** bonus on the assignment grade up to a maximum score of **one-hundred (100) percent**.  
