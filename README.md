@@ -75,7 +75,7 @@ programming in basic C++.
 
 [Material Point Method SIGGRAPH Course (PDF)](https://www.seas.upenn.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
 
-[Two-Minute Papers (YouTube not strictly physics, but cool)[https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg]. 
+[Two-Minute Papers (YouTube not strictly physics, but cool)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) 
   
 ## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment links will go live as the course progresses**  
