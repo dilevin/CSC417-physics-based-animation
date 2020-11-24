@@ -106,6 +106,12 @@ The final project should involve implementing a physics-simulation of any kind. 
 
 **Due Date:** December 21st at 11:59pm.  
 
+[**Example Report**](https://www.siggraph.org/wp-content/uploads/2020/02/techbrief-sample.pdf)
+
+[**Example Video**](http://www.nobuyuki-umetani.com/publication/2014_sca_positionbasedelasticrod/2014_sca_PositionBasedElasticRod.html)
+
+[**Document Templates (use Technical Brief)**](https://www.siggraph.org/learn/instructions-authors/)
+
 ## Grading
 
 | % | Item |
