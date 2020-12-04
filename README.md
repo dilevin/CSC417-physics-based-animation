@@ -93,7 +93,7 @@ programming in basic C++.
 | 8    | **Videos**<br>[Rigid body mechanics](https://www.youtube.com/watch?v=X0spyNYoZ1o&feature=youtu.be)<br>[Rotation Matrix Time Derivatives](https://www.youtube.com/watch?v=1RF7j-Yc21c&t=502s)<br>[**Slides**](lectures/07-rigid-bodies-final.pdf)<br>**[Assignment 5 Rigid body simulation due (20/11)](https://github.com/dilevin/CSC417-a5-rigid-bodies)**
 | **November 9** | *Drop date (consider if grade so far is <50%)*
 | 9    | **Video**<br>Jointed Rigid Body Systems<br>**Work on A5**
-| 10   | **Video**<br>[Rigid Body Collision](https://www.youtube.com/watch?v=8fFg7fOAHSA&feature=youtu.be)<br>**Research Highlight**<br>[Anisotropic Elasticity for Inversion-Safety and Element Rehabilitation](http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf)<br>[**Assignment 6 (Collision Resolution) due (4/12)**](https://github.com/dilevin/CSC417-a6-rigid-body-contact)
+| 10   | **Video**<br>[Rigid Body Collision](https://www.youtube.com/watch?v=8fFg7fOAHSA&feature=youtu.be)<br>[**Slides**](lectures/09-rigid-body-contact-final.pdf)<br>**Research Highlight**<br>[Anisotropic Elasticity for Inversion-Safety and Element Rehabilitation](http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf)<br>[**Assignment 6 (Collision Resolution) due (4/12)**](https://github.com/dilevin/CSC417-a6-rigid-body-contact)
 | 11   | **Videos**<br>[The Material Derivative](https://www.youtube.com/watch?v=ctvHp8YJ3ug&t=9s)<br>[Fluid Simulation](https://www.youtube.com/watch?v=VddQZH_Ppd0&feature=youtu.be)<br>[**Slides**](lectures/10-fluid-simulation-final.pdf)<br>**Research Highlight**<br>[Variational Stokes](http://poisson.cs.uwaterloo.ca/stokes/)<br>**Work on A6**
 | 12   | *Tutorial Only (Last Minute Questions about A5-6, Final Project)*
 
