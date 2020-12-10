@@ -78,6 +78,8 @@ programming in basic C++.
 [Material Point Method SIGGRAPH Course (PDF)](https://www.seas.upenn.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
 
 [Two-Minute Papers (YouTube not strictly physics, but cool)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) 
+
+[Prof. Shinjiro Sueda's Rigid Body Mechanics Notes for Joints](https://github.com/sueda/redmax/blob/master/notes.pdf)
   
 ## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment links will go live as the course progresses**  
@@ -95,7 +97,7 @@ programming in basic C++.
 | 9    | **Video**<br>Jointed Rigid Body Systems<br>**Work on A5**
 | 10   | **Video**<br>[Rigid Body Collision](https://www.youtube.com/watch?v=8fFg7fOAHSA&feature=youtu.be)<br>[**Slides**](lectures/09-rigid-body-contact-final.pdf)<br>**Research Highlight**<br>[Anisotropic Elasticity for Inversion-Safety and Element Rehabilitation](http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf)<br>[**Assignment 6 (Collision Resolution) due (4/12)**](https://github.com/dilevin/CSC417-a6-rigid-body-contact)
 | 11   | **Videos**<br>[The Material Derivative](https://www.youtube.com/watch?v=ctvHp8YJ3ug&t=9s)<br>[Fluid Simulation](https://www.youtube.com/watch?v=VddQZH_Ppd0&feature=youtu.be)<br>[**Slides**](lectures/10-fluid-simulation-final.pdf)<br>**Research Highlight**<br>[Variational Stokes](http://poisson.cs.uwaterloo.ca/stokes/)<br>**Work on A6**
-| 12   | *Tutorial Only (Last Minute Questions about A5-6, Final Project)*
+| 12   | *Tutorial Only (Last Minute Questions about A5-6, Final Project)*<br>**Research Highlight**<br>[On the accurate large-scale simulation of ferrofluids](http://computationalsciences.org/publications/huang-2019-ferrofluids/huang-2019-ferrofluids.pdf)
 
 [Academic Honesty (required reading)](#academic-honesty)
 
@@ -109,6 +111,10 @@ The final project should involve implementing a physics-simulation of any kind. 
 [**Example Report**](https://www.siggraph.org/wp-content/uploads/2020/02/techbrief-sample.pdf)
 
 [**Example Video**](http://www.nobuyuki-umetani.com/publication/2014_sca_positionbasedelasticrod/2014_sca_PositionBasedElasticRod.html)
+
+**Suggested Structure**
+
+Treat your video like a 5-minute presentation of your work (in lieu of a final presentation). You don't have to show yourself in the video, but a good suggested organization is (1) Introduce the problem (2) Mention the important resources you used (3) Outline the algorithm (4) show some results. 
 
 [**Document Templates (use Technical Brief)**](https://www.siggraph.org/learn/instructions-authors/)
 
