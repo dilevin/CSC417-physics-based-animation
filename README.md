@@ -139,8 +139,8 @@ Assignments are **_due by 11:59pm_** on the three due dates below.
 
 0.007% off for every minute late.
 
-Assignments 1,2,3,4 must be handed in by **November 16th at 11:59 pm**.  
-Assignments 5 and 6 must be handed in by **December 10th at 11:59 pm**.  
+Assignments 1,2,3,4 must be handed in by **November 19th at 11:59 pm**.  
+Assignments 5 and 6 must be handed in by **December 17th at 11:59 pm**.  
 The final project must be handed in by **December 21st at 11:59 pm**. 
 
 Extensions to the dates above can only be issued by the instructor.
