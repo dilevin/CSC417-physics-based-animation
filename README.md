@@ -21,25 +21,31 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 Email: diwlevin@cs.toronto.edu  
 [Webpage](http://www.diwlevin.com)
 
-Office Hours: Tuesdays 17:00-18:00 on Zoom **Zoom link will be sent to registered students**
+Office Hours: Tuesdays 17:00-18:00 first two weeks on Zoom **Zoom link will be sent to registered students**
 
 ## TA  
 
-Vismay Modi  
-Honglin Chen
+Yixin Chen
+Haoda Li
+Jonathan Panuelos
 
 Email Instructor and TAs: csc417tas@cs.toronto.edu
 
 ## Lectures
 
-Tuesdays 16:00-17:00 on Zoom  
-Wednesday 14:00-15:00 on Zoom  
-**Zoom link will be emailed to registered students**
+Thursday 15:00-17:00 first two weeks on Zoom  
+
+## Tutorials
+
+Tuesday 10:00-11:00 first two weeks on Zoom
+
+## 
+**Zoom links will be emailed to registered students**
 
 ## Links
 
-Discussion board using [Piazza](https://piazza.com/utoronto.ca/fall2020/csc417)  
-Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc417-2020-09).   
+Discussion board using [Piazza](piazza.com/utoronto.ca/fall2021/csc417)  
+Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc417-2021-09).   
 
 ## Course Overview
 
@@ -82,27 +88,27 @@ programming in basic C++.
 [Prof. Shinjiro Sueda's Rigid Body Mechanics Notes for Joints](https://github.com/sueda/redmax/blob/master/notes.pdf)
   
 ## Lecture Schedule (Due dates are day/month)
-**NOTE: Video and Assignment links will go live as the course progresses**  
+**NOTE: Video and Assignment content maybe updated as the course progresses**  
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | **Reading**<br>[Academic Policy](#academic-honesty)<br>[Grading Scheme](#grading)<br>[Late Policy](#lateness-policy)<br>**Videos**<br>[Introduction](https://www.youtube.com/watch?v=5j37DOD8q4U)<br>[**Slides**](lectures/01-Intro-plain_final.pdf)<br>**Research Highlight**<br>[Fast Mass-Spring Systems](https://www.cs.utah.edu/~ladislav/liu13fast/liu13fast.html)<br>**[Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC417-a1-mass-spring-1d) due 2/10**
+| 1    | **Reading**<br>[Academic Policy](#academic-honesty)<br>[Grading Scheme](#grading)<br>[Late Policy](#lateness-policy)<br>**Videos**<br>[Introduction](https://www.youtube.com/watch?v=5j37DOD8q4U)<br>[**Slides**](lectures/01-Intro-plain_final.pdf)<br>**Research Highlight**<br>[Fast Mass-Spring Systems](https://www.cs.utah.edu/~ladislav/liu13fast/liu13fast.html)<br>**[Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC417-a1-mass-spring-1d) bonus 24/9**
 | 2    | **Video**<br>[Explicit and implicit time integration](https://youtu.be/wpZe1PI7uhQ)<br>[**Slides**](lectures/02-time-integration_final.pdf)<br>**Research Highlight**<br>[Discrete Elastic Rods](http://www.cs.columbia.edu/cg/rods/)<br>**Working on A1**
-| 3    | **Video**<br>[Mass-spring systems in three dimensions](https://youtu.be/9DcKg77nQBA)<br>[**Slides**](lectures/03-Mass-Spring-3d-final.pdf)<br>**Research Highlight**<br>[Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf)<br>**[Assignment 2 (3d mass-springs)](https://github.com/dilevin/CSC417-a2-mass-spring-3d) due 9/10**
-| 4    | **Videos**<br>[Finite Elements for Solids I](https://www.youtube.com/watch?v=ngaYNdNtbec&t=1s)<br>[Gradients and Hessians  with MATLAB’s Symbolic Toolkit](https://www.youtube.com/watch?v=fqGNoUV67lI&t=1s)<br>[Derivatives!](https://www.youtube.com/watch?v=ny-i8_9NtHA&feature=youtu.be)<br>[Avengers:Endgame Simulation Breakdown **SPOILER WARNING**](https://www.youtube.com/watch?v=51w4ZB_s528)<br>[**Slides**](lectures/04-finite-elements-I-final.pdf)<br>**Research Highlight**<br>[Position-Based Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S1047320307000065)<br>**[Assignment 3 (3d FEM)](https://github.com/dilevin/CSC417-a3-finite-elements-3d) due 23/10**
+| 3    | **Video**<br>[Mass-spring systems in three dimensions](https://youtu.be/9DcKg77nQBA)<br>[**Slides**](lectures/03-Mass-Spring-3d-final.pdf)<br>**Research Highlight**<br>[Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf)<br>**[Assignment 2 (3d mass-springs)](https://github.com/dilevin/CSC417-a2-mass-spring-3d) bonus 1/10**
+| 4    | **Videos**<br>[Finite Elements for Solids I](https://www.youtube.com/watch?v=ngaYNdNtbec&t=1s)<br>[Gradients and Hessians  with MATLAB’s Symbolic Toolkit](https://www.youtube.com/watch?v=fqGNoUV67lI&t=1s)<br>[Derivatives!](https://www.youtube.com/watch?v=ny-i8_9NtHA&feature=youtu.be)<br>[Avengers:Endgame Simulation Breakdown **SPOILER WARNING**](https://www.youtube.com/watch?v=51w4ZB_s528)<br>[**Slides**](lectures/04-finite-elements-I-final.pdf)<br>**Research Highlight**<br>[Position-Based Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S1047320307000065)<br>**[Assignment 3 (3d FEM)](https://github.com/dilevin/CSC417-a3-finite-elements-3d) bonus 15/10**
 | 5    | **Video**<br>[Finite Elements for Solids II](https://youtu.be/RsdyeUyWss0)<br>[**Slides**](lectures/05-finite-elements-II-final.pdf)<br>**Research Highlight**<br>[Frame-Based Elastic Models](http://www-ljk.imag.fr/Publications/Basilic/com.lmc.publi.PUBLI_Article@12f67a0f733_19a6a34/FBEM.pdf)<br>**Working on A3**
-| 6    | **Video**<br>[Finite Elements for Simulating Cloth and Shells](https://www.youtube.com/watch?v=MJj17gpmrI4&feature=youtu.be)<br>[**Slides**](lectures/06-cloth-simulation-final.pdf)<br>**Research Highlight**<br>[Homogenized Yarn-Level Cloth](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)<br>**[Assignment 4 Finite Elements for Cloth Simulation](https://github.com/dilevin/CSC417-a4-cloth-simulation) due (6/11)**
+| 6    | **Video**<br>[Finite Elements for Simulating Cloth and Shells](https://www.youtube.com/watch?v=MJj17gpmrI4&feature=youtu.be)<br>[**Slides**](lectures/06-cloth-simulation-final.pdf)<br>**Research Highlight**<br>[Homogenized Yarn-Level Cloth](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)<br>**[Assignment 4 Finite Elements for Cloth Simulation](https://github.com/dilevin/CSC417-a4-cloth-simulation) bonus 29/10**
 | 7    | *Tutorial Only (Catch up, last minute questions about Assignments 1-4)*
-| 8    | **Videos**<br>[Rigid body mechanics](https://www.youtube.com/watch?v=X0spyNYoZ1o&feature=youtu.be)<br>[Rotation Matrix Time Derivatives](https://www.youtube.com/watch?v=1RF7j-Yc21c&t=502s)<br>[**Slides**](lectures/07-rigid-bodies-final.pdf)<br>**[Assignment 5 Rigid body simulation due (20/11)](https://github.com/dilevin/CSC417-a5-rigid-bodies)**
-| **November 9** | *Drop date (consider if grade so far is <50%)*
+| 8    | **Videos**<br>[Rigid body mechanics](https://www.youtube.com/watch?v=X0spyNYoZ1o&feature=youtu.be)<br>[Rotation Matrix Time Derivatives](https://www.youtube.com/watch?v=1RF7j-Yc21c&t=502s)<br>[**Slides**](lectures/07-rigid-bodies-final.pdf)<br>**[Assignment 5 Rigid body simulation bonus 5/11](https://github.com/dilevin/CSC417-a5-rigid-bodies)**
+| **November 8** | *Drop date (consider if grade so far is <50%)*
 | 9    | **Video**<br>Jointed Rigid Body Systems<br>**Work on A5**
-| 10   | **Video**<br>[Rigid Body Collision](https://www.youtube.com/watch?v=8fFg7fOAHSA&feature=youtu.be)<br>[**Slides**](lectures/09-rigid-body-contact-final.pdf)<br>**Research Highlight**<br>[Anisotropic Elasticity for Inversion-Safety and Element Rehabilitation](http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf)<br>[**Assignment 6 (Collision Resolution) due (4/12)**](https://github.com/dilevin/CSC417-a6-rigid-body-contact)
+| 10   | **Video**<br>[Rigid Body Collision](https://www.youtube.com/watch?v=8fFg7fOAHSA&feature=youtu.be)<br>[**Slides**](lectures/09-rigid-body-contact-final.pdf)<br>**Research Highlight**<br>[Anisotropic Elasticity for Inversion-Safety and Element Rehabilitation](http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf)<br>[**Assignment 6 (Collision Resolution) due (26/11)**](https://github.com/dilevin/CSC417-a6-rigid-body-contact)
 | 11   | **Videos**<br>[The Material Derivative](https://www.youtube.com/watch?v=ctvHp8YJ3ug&t=9s)<br>[Fluid Simulation](https://www.youtube.com/watch?v=VddQZH_Ppd0&feature=youtu.be)<br>[**Slides**](lectures/10-fluid-simulation-final.pdf)<br>**Research Highlight**<br>[Variational Stokes](http://poisson.cs.uwaterloo.ca/stokes/)<br>**Work on A6**
 | 12   | *Tutorial Only (Last Minute Questions about A5-6, Final Project)*<br>**Research Highlight**<br>[On the accurate large-scale simulation of ferrofluids](http://computationalsciences.org/publications/huang-2019-ferrofluids/huang-2019-ferrofluids.pdf)
 
 [Academic Honesty (required reading)](#academic-honesty)
 
 ## Final Project
-The final project should involve implementing a physics-simulation of any kind. It can be an algorithm from a paper or a new algorithm altogether. You can write the code from scratch or extend one of the course assignments. Projects can be done individually or in groups of two. The expectation is that the amount of work per-group member is equivalent, thus two person groups should be more ambitious in their project plans. 
+The final project should involve implementing one  physics-simulation algorithm from a number of choices provided by the professor (**coming soon**). The projects will be taken from popular research papers. While the course will cover all the mathematical an technical concepts required to complete the projects, it will not cover the algorithms in detail. Projects can be done in up to groups of two (2) with no exceptions. 
 
 **Deliverable:** The code for your algorithm (in Python, C++ or MATLAB) along with instructions to compile and run the implementation. A **two (2) page** writeup of the algorithm in the style of a short SIGGRAPH paper. A **5-minute** SIGGRAPH style video showing the results of your method.  
 
@@ -137,15 +143,11 @@ Assignments 1,2,3,4 must be handed in by **November 16th at 11:59 pm**.
 Assignments 5 and 6 must be handed in by **December 10th at 11:59 pm**.  
 The final project must be handed in by **December 21st at 11:59 pm**. 
 
-~~These dates are not extendable.~~
-
 Extensions to the dates above can only be issued by the instructor.
 
 **THERE ARE NO LATE PENALTIES APPLIED TO ANY OTHER DEADLINES ASIDE FROM THE THREE (3) DEADLINES DIRECTLY ABOVE THIS TEXT**.   
 
-~~However, every student will be given **twenty-one (21) days** of late credits which are automatically applied to all other deadlines aside from the ones above.~~
-
-Students who hand in their assignments on the due dates in the [schedule](#lecture-schedule) above will be awarded a **five (5) percent** bonus on the assignment grade up to a maximum score of **one-hundred (100) percent**.  
+**IMPORTANT: ** Students who hand in their assignments on the due dates in the [schedule](#lecture-schedule) above will be awarded a **five (5) percent** bonus on the assignment grade up to a maximum score of **one-hundred (100) percent**.  
 
 ### Academic Honesty
 
