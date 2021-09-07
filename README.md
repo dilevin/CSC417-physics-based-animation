@@ -25,7 +25,7 @@ Office Hours: Tuesdays 17:00-18:00 first two weeks on Zoom **Zoom link will be s
 
 ## TA  
 
-Yixin Che
+Yixin Chen
   
 Haoda Li  
 
