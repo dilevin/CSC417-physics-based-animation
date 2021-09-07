@@ -44,7 +44,7 @@ Tuesday 10:00-11:00 first two weeks on Zoom
 
 ## Links
 
-Discussion board using [Piazza](piazza.com/utoronto.ca/fall2021/csc417)  
+Discussion board using [Piazza](https://piazza.com/utoronto.ca/fall2021/csc417)  
 Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc417-2021-09).   
 
 ## Course Overview
