@@ -25,8 +25,10 @@ Office Hours: Tuesdays 17:00-18:00 first two weeks on Zoom **Zoom link will be s
 
 ## TA  
 
-Yixin Chen
-Haoda Li
+Yixin Che
+  
+Haoda Li  
+
 Jonathan Panuelos
 
 Email Instructor and TAs: csc417tas@cs.toronto.edu
