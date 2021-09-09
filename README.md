@@ -1,4 +1,4 @@
-# CSC417/CSC2549-Physics-based Animation *Fall 2020*
+# CSC417/CSC2549-Physics-based Animation *Fall 2021*
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
 - [CSC417/CSC2549 - Physics-based Animation *Fall 2020*](#csc417csc2549---physics-based-animation-fall-2020)
