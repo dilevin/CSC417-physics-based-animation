@@ -21,7 +21,7 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 Email: diwlevin@cs.toronto.edu  
 [Webpage](http://www.diwlevin.com)
 
-Office Hours: Tuesdays 17:00-18:00 first two weeks on Zoom **Zoom link will be sent to registered students**
+Office Hours: Thursdays 17:00-18:00 first two weeks on Zoom **Zoom link will be sent to registered students**
 
 ## TA  
 
