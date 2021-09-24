@@ -88,6 +88,8 @@ programming in basic C++.
 [Two-Minute Papers (YouTube not strictly physics, but cool)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) 
 
 [Prof. Shinjiro Sueda's Rigid Body Mechanics Notes for Joints](https://github.com/sueda/redmax/blob/master/notes.pdf)
+
+[Great Book on Geometric Time Integration by Hairer](https://www.springer.com/gp/book/9783540306634)
   
 ## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment content maybe updated as the course progresses**  
