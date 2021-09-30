@@ -90,6 +90,8 @@ programming in basic C++.
 [Prof. Shinjiro Sueda's Rigid Body Mechanics Notes for Joints](https://github.com/sueda/redmax/blob/master/notes.pdf)
 
 [Great Book on Geometric Time Integration by Hairer](https://www.springer.com/gp/book/9783540306634)
+
+[libigl for geometry processing](https://libigl.github.io)
   
 ## Lecture Schedule (Due dates are day/month)
 **NOTE: Video and Assignment content maybe updated as the course progresses**  
