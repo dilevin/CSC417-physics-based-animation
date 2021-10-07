@@ -125,7 +125,7 @@ The final project should involve implementing one  physics-simulation algorithm 
 | 1 | [Meshless Deformations Based on Shape Matching](https://www.cs.drexel.edu/~david/Classes/Papers/MeshlessDeformations_SIG05.pdf) |
 | 1 | [Stable Neo-Hookean Flesh Simulation](https://graphics.pixar.com/library/StableElasticity/paper.pdf) |
 | 2 | [Discrete Elastic Rods](http://www.cs.columbia.edu/cg/pdfs/143-rods.pdf) |
-| 2 | [Discrete Viscous Threads] (http://ddg.math.uni-goettingen.de/pub/Discrete_Viscous_Threads.pdf) |
+| 2 | [Discrete Viscous Threads](http://ddg.math.uni-goettingen.de/pub/Discrete_Viscous_Threads.pdf) |
 | 2 | [FEPR: Fast Energy Projection for REal-Time Simultion of Deformable Objects](https://www.cs.utah.edu/~ladislav/dinev18FEPR/dinev18FEPR.html) |
 | 2 | [Velocity-based shock propagation for multibody dynamics animation](https://dl.acm.org/doi/10.1145/1243980.1243986)|
 | 2 | [Position Based Fluids](https://mmacklin.com/pbf_sig_preprint.pdf)|
