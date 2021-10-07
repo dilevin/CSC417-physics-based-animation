@@ -116,8 +116,9 @@ programming in basic C++.
 ## Final Project
 The final project should involve implementing one  physics-simulation algorithm from a number of choices provided by the professor (**coming soon**). The projects will be taken from popular research papers. While the course will cover all the mathematical an technical concepts required to complete the projects, it will not cover the algorithms in detail. Projects can be done in up to groups of two (2) with no exceptions. 
 
-**UPDATE: Implement an algorithm from one of these papers, more complete implementations are expected from lower degree of difficulty submissions **
+**UPDATE: Implement an algorithm from one of these papers, more complete implementations are expected from lower degree of difficulty submissions**
 |Difficulty (1 Easiest, 3 Hardest) | Paper |
+| ---- | :------------ |
 | 1 | [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) |
 | 1 | [Stable Fluids](https://dl.acm.org/doi/10.1145/311535.311548) |
 | 1 | [Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html) |
