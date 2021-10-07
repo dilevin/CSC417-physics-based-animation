@@ -116,6 +116,29 @@ programming in basic C++.
 ## Final Project
 The final project should involve implementing one  physics-simulation algorithm from a number of choices provided by the professor (**coming soon**). The projects will be taken from popular research papers. While the course will cover all the mathematical an technical concepts required to complete the projects, it will not cover the algorithms in detail. Projects can be done in up to groups of two (2) with no exceptions. 
 
+**UPDATE: Implement an algorithm from one of these papers, more complete implementations are expected from lower degree of difficulty submissions **
+|Difficulty (1 Easiest, 3 Hardest) | Paper |
+| 1 | [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) |
+| 1 | [Stable Fluids](https://dl.acm.org/doi/10.1145/311535.311548) |
+| 1 | [Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html) |
+| 1 | [Meshless Deformations Based on Shape Matching](https://www.cs.drexel.edu/~david/Classes/Papers/MeshlessDeformations_SIG05.pdf) |
+| 1 | [Stable Neo-Hookean Flesh Simulation](https://graphics.pixar.com/library/StableElasticity/paper.pdf) |
+| 2 | [Discrete Elastic Rods](http://www.cs.columbia.edu/cg/pdfs/143-rods.pdf) |
+| 2 | [Discrete Viscous Threads] (http://ddg.math.uni-goettingen.de/pub/Discrete_Viscous_Threads.pdf) |
+| 2 | [FEPR: Fast Energy Projection for REal-Time Simultion of Deformable Objects](https://www.cs.utah.edu/~ladislav/dinev18FEPR/dinev18FEPR.html) |
+| 2 | [Velocity-based shock propagation for multibody dynamics animation](https://dl.acm.org/doi/10.1145/1243980.1243986)|
+| 2 | [Position Based Fluids](https://mmacklin.com/pbf_sig_preprint.pdf)|
+| 3 | [Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids](https://uwaterloo.ca/computational-motion-group/publications-0/variational-stokes-unified-pressure-viscosity-solver) |
+| 3 | [Incremental Potential Contact:
+Intersection- and Inversion-free Large Deformation Dynamics](https://ipc-sim.github.io) |
+| 3 | [Linear-Time Dynamics using Lagrange Multipliers](https://www.cs.cmu.edu/~baraff/papers/sig96.pdf) |
+| 3 | [High-order Differentiable Autoencoder for Nonlinear Model Reduction](https://arxiv.org/abs/2102.11026) |
+| 3 | [A Fast Variational Framework for Accurate Solid-Fluid Coupling](http://www.cs.ubc.ca/labs/imager/tr/2007/Batty_VariationalFluids/) |
+| 3 | [The Affine Particle-In-Cell Method](https://www.math.ucla.edu/~jteran/papers/JSSTS15.pdf) |
+| 4 | [ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](https://baecher.info/publication/add_siga20/) | 
+
+
+
 **Deliverable:** The code for your algorithm (in Python, C++ or MATLAB) along with instructions to compile and run the implementation. A **two (2) page** writeup of the algorithm in the style of a short SIGGRAPH paper. A **5-minute** SIGGRAPH style video showing the results of your method.  
 
 **Due Date:** December 21st at 11:59pm.  
