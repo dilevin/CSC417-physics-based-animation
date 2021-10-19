@@ -129,6 +129,7 @@ The final project should involve implementing one  physics-simulation algorithm 
 | 2 | [FEPR: Fast Energy Projection for REal-Time Simultion of Deformable Objects](https://www.cs.utah.edu/~ladislav/dinev18FEPR/dinev18FEPR.html) |
 | 2 | [Velocity-based shock propagation for multibody dynamics animation](https://dl.acm.org/doi/10.1145/1243980.1243986)|
 | 2 | [Position Based Fluids](https://mmacklin.com/pbf_sig_preprint.pdf)|
+| 2 | [Animating Sand as a Fluid](https://www.cs.ubc.ca/~rbridson/docs/zhu-siggraph05-sandfluid.pdf) | 
 | 3 | [Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids](https://uwaterloo.ca/computational-motion-group/publications-0/variational-stokes-unified-pressure-viscosity-solver) |
 | 3 | [Incremental Potential Contact: Intersection- and Inversion-free Large Deformation Dynamics](https://ipc-sim.github.io) |
 | 3 | [Linear-Time Dynamics using Lagrange Multipliers](https://www.cs.cmu.edu/~baraff/papers/sig96.pdf) |
