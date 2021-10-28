@@ -122,6 +122,7 @@ The final project should involve implementing one  physics-simulation algorithm 
 | 1 | [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) |
 | 1 | [Stable Fluids](https://dl.acm.org/doi/10.1145/311535.311548) |
 | 1 | [Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html) |
+| 1 | [Discrete Shells](http://multires.caltech.edu/pubs/ds.pdf) |
 | 1 | [Meshless Deformations Based on Shape Matching](https://www.cs.drexel.edu/~david/Classes/Papers/MeshlessDeformations_SIG05.pdf) |
 | 1 | [Stable Neo-Hookean Flesh Simulation](https://graphics.pixar.com/library/StableElasticity/paper.pdf) |
 | 2 | [Discrete Elastic Rods](http://www.cs.columbia.edu/cg/pdfs/143-rods.pdf) |
