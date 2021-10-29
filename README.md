@@ -137,6 +137,7 @@ The final project should involve implementing one  physics-simulation algorithm 
 | 3 | [High-order Differentiable Autoencoder for Nonlinear Model Reduction](https://arxiv.org/abs/2102.11026) |
 | 3 | [A Fast Variational Framework for Accurate Solid-Fluid Coupling](http://www.cs.ubc.ca/labs/imager/tr/2007/Batty_VariationalFluids/) |
 | 3 | [The Affine Particle-In-Cell Method](https://www.math.ucla.edu/~jteran/papers/JSSTS15.pdf) |
+| 3 | [Interactive Differentiable Dynamics](https://arxiv.org/abs/1905.10706) |
 | 4 | [ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](https://baecher.info/publication/add_siga20/) | 
 
 
