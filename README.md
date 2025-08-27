@@ -1,7 +1,7 @@
 # CSC417/CSC2549-Physics-based Animation *Fall 2021*
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
-- [CSC417/CSC2549 - Physics-based Animation *Fall 2020*](#csc417csc2549---physics-based-animation-fall-2020)
+- [CSC417/CSC2549 - Physics-based Animation *Fall 2020*](#csc417---physics-based-animation-fall-2025)
   - [Instructors](#instructors)
   - [TA](#ta)
   - [Lectures](#lectures)
@@ -21,44 +21,40 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 Email: diwlevin@cs.toronto.edu  
 [Webpage](http://www.diwlevin.com)
 
-Office Hours: Thursdays 17:00-18:00 first two weeks on Zoom **Zoom link will be sent to registered students**
+Office Hours: Upon request via email 
 
 ## TA  
 
-Yixin Chen
+Coming Soon
   
-Haoda Li  
-
-Jonathan Panuelos
-
 Email Instructor and TAs: csc417tas@cs.toronto.edu
 
 ## Lectures
 
-Thursday 15:00-17:00 first two weeks on Zoom  
+Wednesday 11:00-13:00 [ES](https://map.utoronto.ca/?id=1809#!bm/?m/494499?s/ES) B142 
 
 ## Tutorials
 
-Tuesday 10:00-11:00 first two weeks on Zoom
+Monday 11:00-noon (starts September 8th)
 
-## 
-**Zoom links will be emailed to registered students**
 
 ## Links
 
-Discussion board using [Piazza](https://piazza.com/utoronto.ca/fall2021/csc417)  
-Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc417-2021-09).   
+Discussion board using [Piazza](https://piazza.com/class/meu39nhxb902uz/) (monitored by TAs)
+Hand in assignments using MarkUs (Coming Soon).   
 
 ## Course Overview
 
 This course is designed to introduce students to the field of physics-based animation by exposing  them to the underlying mathematical and algorithmic techniques required to understand and develop efficient numerical simulations of physical phenomena such as rigid bodies, deformable bodies and fluids. In Physics-Based Animation we will learn how to develop algorithms that produce visually compelling representations of physical systems.  We will learn the underlying continuous mathematics describing the motion of physical objects, explore how to discretize them and how to solve the resulting discrete equations quickly and robustly. 
-  
-**Prerequisites:** C/C++ Programming, Linear Algebra, Calculus, Numerical
+
+**IMPORTANT: The course is all new this year including a change to Python for the primary programming language using both PyTorch and NVIDIA Warp along with new assignments and lectures. All previous content from the course is available in previous commits of this website**
+
+**Prerequisites:** Python Programming, Linear Algebra, Calculus, Numerical
 Methods 
 
 The student is expected to read background material as necessary and should be comfortable with elementary linear algebra, geometry,
 and vector calculus. It is also assumed that the student is comfortable
-programming in basic C++.
+programming in Python.
 
 **_(Strongly)_ Recommended preparation:** Multivariable Calculus
 
@@ -92,76 +88,36 @@ programming in basic C++.
 [Great Book on Geometric Time Integration by Hairer](https://www.springer.com/gp/book/9783540306634)
 
 [libigl for geometry processing](https://libigl.github.io)
+
+[NVIDIA Warp Documentation](https://nvidia.github.io/warp/)
   
 ## Lecture Schedule (Due dates are day/month)
-**NOTE: Video and Assignment content maybe updated as the course progresses**  
-| Week | Topic / Event |
-| ---- | :------------ |
-| 1    | **Reading**<br>[Academic Policy](#academic-honesty)<br>[Grading Scheme](#grading)<br>[Late Policy](#lateness-policy)<br>**Videos**<br>[Introduction](https://www.youtube.com/watch?v=5j37DOD8q4U)<br>[**Slides**](lectures/01-Intro-plain_final.pdf)<br>**Research Highlight**<br>[Fast Mass-Spring Systems](https://www.cs.utah.edu/~ladislav/liu13fast/liu13fast.html)<br>**[Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC417-a1-mass-spring-1d) bonus 24/9**
-| 2    | **Video**<br>[Explicit and implicit time integration](https://youtu.be/wpZe1PI7uhQ)<br>[**Slides**](lectures/02-time-integration_final.pdf)<br>**Research Highlight**<br>[Discrete Elastic Rods](http://www.cs.columbia.edu/cg/rods/)<br>**Working on A1**
-| 3    | **Video**<br>[Mass-spring systems in three dimensions](https://youtu.be/9DcKg77nQBA)<br>[**Slides**](lectures/03-Mass-Spring-3d-final.pdf)<br>**Research Highlight**<br>[Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf)<br>**[Assignment 2 (3d mass-springs)](https://github.com/dilevin/CSC417-a2-mass-spring-3d) bonus 1/10**
-| 4    | **Videos**<br>[Finite Elements for Solids I](https://www.youtube.com/watch?v=ngaYNdNtbec&t=1s)<br>[Gradients and Hessians  with MATLAB’s Symbolic Toolkit](https://www.youtube.com/watch?v=fqGNoUV67lI&t=1s)<br>[Derivatives!](https://www.youtube.com/watch?v=ny-i8_9NtHA&feature=youtu.be)<br>[Avengers:Endgame Simulation Breakdown](https://www.youtube.com/watch?v=51w4ZB_s528)<br>[**Slides**](lectures/04-finite-elements-I-final.pdf)<br>**Research Highlight**<br>[Position-Based Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S1047320307000065)<br>**[Assignment 3 (3d FEM)](https://github.com/dilevin/CSC417-a3-finite-elements-3d) bonus 15/10**
-| 5    | **Video**<br>[Finite Elements for Solids II](https://youtu.be/RsdyeUyWss0)<br>[**Slides**](lectures/05-finite-elements-II-final.pdf)<br>**Research Highlight**<br>[Frame-Based Elastic Models](http://www-ljk.imag.fr/Publications/Basilic/com.lmc.publi.PUBLI_Article@12f67a0f733_19a6a34/FBEM.pdf)<br>**Working on A3**
-| 6    | **Video**<br>[Finite Elements for Simulating Cloth and Shells](https://www.youtube.com/watch?v=MJj17gpmrI4&feature=youtu.be)<br>[**Slides**](lectures/06-cloth-simulation-final.pdf)<br>**Research Highlight**<br>[Homogenized Yarn-Level Cloth](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)<br>**[Assignment 4 Finite Elements for Cloth Simulation](https://github.com/dilevin/CSC417-a4-cloth-simulation) bonus 29/10**
-| 7    | **No new videos but there will be class**
-| 8    | **Videos**<br>[Rigid body mechanics](https://www.youtube.com/watch?v=X0spyNYoZ1o&feature=youtu.be)<br>[Rotation Matrix Time Derivatives](https://www.youtube.com/watch?v=1RF7j-Yc21c&t=502s)<br>[**Slides**](lectures/07-rigid-bodies-final.pdf)<br>**[Assignment 5 Rigid body simulation bonus 5/11](https://github.com/dilevin/CSC417-a5-rigid-bodies)**
-| **November 8** | *Drop date (consider if grade so far is <50%)*
-| 9    | **Video**<br>Jointed Rigid Body Systems<br>**Work on A5**
-| 10   | **Video**<br>[Rigid Body Collision](https://www.youtube.com/watch?v=8fFg7fOAHSA&feature=youtu.be)<br>[**Slides**](lectures/09-rigid-body-contact-final.pdf)<br>**Research Highlight**<br>[Anisotropic Elasticity for Inversion-Safety and Element Rehabilitation](http://www.tkim.graphics/ANISOTROPY/AnisotropyAndRehab.pdf)<br>[**Assignment 6 (Collision Resolution) due (26/11)**](https://github.com/dilevin/CSC417-a6-rigid-body-contact)
-| 11   | **Videos**<br>[The Material Derivative](https://www.youtube.com/watch?v=ctvHp8YJ3ug&t=9s)<br>[Fluid Simulation](https://www.youtube.com/watch?v=VddQZH_Ppd0&feature=youtu.be)<br>[**Slides**](lectures/10-fluid-simulation-final.pdf)<br>**Research Highlight**<br>[Variational Stokes](http://poisson.cs.uwaterloo.ca/stokes/)<br>**Work on A6**
-| 12   | **Research Highlight**<br>[On the accurate large-scale simulation of ferrofluids](http://computationalsciences.org/publications/huang-2019-ferrofluids/huang-2019-ferrofluids.pdf)
+| **Dates**  | **Topic**                             | **Assignments**                                     |
+| ---------- | ------------------------------------- | --------------------------------------------------- |
+| 9/3/2025   | Introduction                          |                                                     |
+| 9/10/2025  | Deformation and Finite Element Method |                                                     |
+| 9/17/2025  | From Energy to Motion                 |                                                     |
+| 9/24/2025  | Cloth Simulation                      | Release A1: Finite Element Methods                  |
+| 10/1/2025  | Rigid Bodies / Affine Body Dynamics   |                                                     |
+| 10/8/2025  | Collisions                            |                                                     |
+| 10/15/2025 | Intro to Fluid Simulation             | Assignment 1 Due, Release A2:  Affine Body Dynamics |
+| 10/22/2025 | Material Point Method                 |                                                     |
+| 11/5/2025  | Reduced-Order Models                  | Assignment 2 Due, Release A3: Fluids                |
+| 11/11/2025 | ***Drop Deadline***                   |                                                     |
+| 11/12/2025 | Fast Physics Solvers                  | Assignment 3 Due, Release A4:  Reduced/Fast Methods |
+| 11/19/2025 | Beyond Elasticity                     |                                                     |
+| 11/26/2025 | ***Final Exam***                      | Assignment 4 Due                                    |
 
-[Academic Honesty (required reading)](#academic-honesty)
-
-## Final Project
-The final project should involve implementing one  physics-simulation algorithm from a number of choices provided by the professor (**coming soon**). The projects will be taken from popular research papers. While the course will cover all the mathematical an technical concepts required to complete the projects, it will not cover the algorithms in detail. Projects can be done in up to groups of two (2) with no exceptions. 
-
-**UPDATE: Implement an algorithm from one of these papers, more complete implementations are expected from lower degree of difficulty submissions**
-|Difficulty (1 Easiest, 4 Hardest) | Paper |
-| ---- | :------------ |
-| 1 | [Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) |
-| 1 | [Stable Fluids](https://dl.acm.org/doi/10.1145/311535.311548) |
-| 1 | [Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html) |
-| 1 | [Discrete Shells](http://multires.caltech.edu/pubs/ds.pdf) |
-| 1 | [Meshless Deformations Based on Shape Matching](https://www.cs.drexel.edu/~david/Classes/Papers/MeshlessDeformations_SIG05.pdf) |
-| 1 | [Stable Neo-Hookean Flesh Simulation](https://graphics.pixar.com/library/StableElasticity/paper.pdf) |
-| 2 | [Discrete Elastic Rods](http://www.cs.columbia.edu/cg/pdfs/143-rods.pdf) |
-| 2 | [Discrete Viscous Threads](http://ddg.math.uni-goettingen.de/pub/Discrete_Viscous_Threads.pdf) |
-| 2 | [FEPR: Fast Energy Projection for REal-Time Simultion of Deformable Objects](https://www.cs.utah.edu/~ladislav/dinev18FEPR/dinev18FEPR.html) |
-| 2 | [Velocity-based shock propagation for multibody dynamics animation](https://dl.acm.org/doi/10.1145/1243980.1243986)|
-| 2 | [Position Based Fluids](https://mmacklin.com/pbf_sig_preprint.pdf)|
-| 2 | [Animating Sand as a Fluid](https://www.cs.ubc.ca/~rbridson/docs/zhu-siggraph05-sandfluid.pdf) | 
-| 3 | [Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids](https://uwaterloo.ca/computational-motion-group/publications-0/variational-stokes-unified-pressure-viscosity-solver) |
-| 3 | [Incremental Potential Contact: Intersection- and Inversion-free Large Deformation Dynamics](https://ipc-sim.github.io) |
-| 3 | [Linear-Time Dynamics using Lagrange Multipliers](https://www.cs.cmu.edu/~baraff/papers/sig96.pdf) |
-| 3 | [High-order Differentiable Autoencoder for Nonlinear Model Reduction](https://arxiv.org/abs/2102.11026) |
-| 3 | [A Fast Variational Framework for Accurate Solid-Fluid Coupling](http://www.cs.ubc.ca/labs/imager/tr/2007/Batty_VariationalFluids/) |
-| 3 | [The Affine Particle-In-Cell Method](https://www.math.ucla.edu/~jteran/papers/JSSTS15.pdf) |
-| 3 | [Interactive Differentiable Dynamics](https://arxiv.org/abs/1905.10706) |
-| 4 | [ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](https://baecher.info/publication/add_siga20/) | 
-
-
-
-**Deliverable:** The code for your algorithm (in Python, C++ or MATLAB) along with instructions to compile and run the implementation. A **two (2) page** writeup of the algorithm in the style of a short SIGGRAPH paper. A **5-minute** SIGGRAPH style video showing the results of your method.  
-
-**Due Date:** December 21st at 11:59pm.  
-
-[**Example Report**](https://www.siggraph.org/wp-content/uploads/2020/02/techbrief-sample.pdf)
-
-[**Example Video**](http://www.nobuyuki-umetani.com/publication/2014_sca_positionbasedelasticrod/2014_sca_PositionBasedElasticRod.html)
-
-**Suggested Structure**
-
-Treat your video like a 5-minute presentation of your work (in lieu of a final presentation). You don't have to show yourself in the video, but a good suggested organization is (1) Introduce the problem (2) Mention the important resources you used (3) Outline the algorithm (4) show some results. 
-
-[**Document Templates (use Technical Brief)**](https://www.siggraph.org/learn/instructions-authors/)
 
 ## Grading
 
 | % | Item |
 | ----: | :-------------- |
-| 60% | Assignments (top 5 of 6)
-| 40% | Final Project 
+| 50% | Assignments 
+| 30% | In-Tutorial Quizzes 
+| 20% | Final Exam (must get >= 50% to pass course)
+
+Details on quizzes are coming soon
 
 ## Lateness Policy
 
@@ -169,17 +125,15 @@ Treat your video like a 5-minute presentation of your work (in lieu of a final p
 
 Assignments are **_due by 11:59pm_** on the three due dates below.
 
-0.007% off for every minute late.
+Every student will recieve 21 "late days" that will be automatically applied before the late penalty begins to accumulate. You only have to inform the instructor if you **DO NOT** wish to use your late days for a particular assignment.
 
-Assignments 1,2,3,4 must be handed in by **November 19th at 11:59 pm**.  
-Assignments 5 and 6 must be handed in by **December 17th at 11:59 pm**.  
-The final project must be handed in by **December 21st at 11:59 pm**. 
+After late days have been exhausted, assignemnts accrue a penalty at the following rate: 0.007% off for every minute late.
 
-Extensions to the dates above can only be issued by the instructor.
+Further extensions can only be issued by the instructor.
 
-**THERE ARE NO LATE PENALTIES APPLIED TO ANY OTHER DEADLINES ASIDE FROM THE THREE (3) DEADLINES DIRECTLY ABOVE THIS TEXT**.   
+### AI Policy 
 
-**IMPORTANT: ** Students who hand in their assignments on the due dates in the [schedule](#lecture-schedule) above will be awarded a **five (5) percent** bonus on the assignment grade up to a maximum score of **one-hundred (100) percent**.  
+You can freely use AI tools such as CoPilot, ChatGPT or Cursor for your assignments but not for quizzes or the final exam.
 
 ### Academic Honesty
 
@@ -206,11 +160,7 @@ For purposes of this class, academic dishonesty is defined as:
 
 ### Email & Bulletin Board Traffic
 
-- Use GitHub issues for answering questions about class subject matter or about the assignments. The TAs and the instructor will monitor the issues pages. Email sent to the instructor or TAs regarding these matters will be ignored. 
 - Remark requests will be handled through MarkUs. 
-- Appropriate use of issues page: clarifications on assignment, on lecture
-  material, general concerns about the course, or other remarks that are
-  appropriate for all students to see/participate in.
 - Do NOT broadcast pieces of your code or answers to written assignments to the
    issues page. Specific or general implementation questions whose answer
   would benefit all students in the class are appropriate.
