@@ -1,7 +1,7 @@
-# CSC417/CSC2549-Physics-based Animation *Fall 2021*
+# CSC417/CSC2549-Physics-based Animation *Fall 2025*
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
-- [CSC417/CSC2549 - Physics-based Animation *Fall 2020*](#csc417---physics-based-animation-fall-2025)
+- [CSC417/CSC2549 - Physics-based Animation *Fall 2025*](#csc417---physics-based-animation-fall-2025)
   - [Instructors](#instructors)
   - [TA](#ta)
   - [Lectures](#lectures)
@@ -94,7 +94,7 @@ programming in Python.
 ## Lecture Schedule (Due dates are day/month)
 | **Dates**  | **Topic**                             | **Assignments**                                     |
 | ---------- | ------------------------------------- | --------------------------------------------------- |
-| 9/3/2025   | Introduction                          |                                                     |
+| 9/3/2025   | [Introduction](lectures/01-introduction.pdf)                          |                                                     |
 | 9/10/2025  | Deformation and Finite Element Method |                                                     |
 | 9/17/2025  | From Energy to Motion                 |                                                     |
 | 9/24/2025  | Cloth Simulation                      | Release A1: Finite Element Methods                  |
