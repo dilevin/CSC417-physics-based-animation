@@ -104,9 +104,9 @@ programming in Python.
 | 10/22/2025 | Material Point Method                 |                                                     |
 | 11/5/2025  | Reduced-Order Models                  | Assignment 2 Due, Release A3: Fluids                |
 | 11/11/2025 | ***Drop Deadline***                   |                                                     |
-| 11/12/2025 | Fast Physics Solvers                  | Assignment 3 Due, Release A4:  Reduced/Fast Methods |
-| 11/19/2025 | Beyond Elasticity                     |                                                     |
-| 11/26/2025 | ***Final Exam***                      | Assignment 4 Due                                    |
+| 11/12/2025 | Fast Physics Solvers                  |                                                     |
+| 11/19/2025 | Beyond Elasticity                     | Assignment 3 Due, Release A4:  Reduced/Fast Methods  |                                         
+| 11/26/2025 | ***Final Exam***                      | Assignment 4 Due  December 3rd                                    |
 
 
 ## Grading
