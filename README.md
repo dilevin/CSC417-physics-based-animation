@@ -40,7 +40,7 @@ Monday 11:00-noon (starts September 8th)
 
 ## Links
 
-Discussion board using [Piazza](https://piazza.com/class/meu39nhxb902uz/) (monitored by TAs)
+Discussion board using [Piazza](https://piazza.com/utoronto.ca/fall2025/csc417) (monitored by TAs)
 Hand in assignments using MarkUs (Coming Soon).   
 
 ## Course Overview
