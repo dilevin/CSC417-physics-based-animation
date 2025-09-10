@@ -1,7 +1,7 @@
-# CSC417/CSC2549-Physics-based Animation *Fall 2021*
+# CSC417/CSC2549-Physics-based Animation *Fall 2025*
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
-- [CSC417/CSC2549 - Physics-based Animation *Fall 2020*](#csc417---physics-based-animation-fall-2025)
+- [CSC417/CSC2549 - Physics-based Animation *Fall 2025*](#csc417---physics-based-animation-fall-2025)
   - [Instructors](#instructors)
   - [TA](#ta)
   - [Lectures](#lectures)
@@ -40,7 +40,7 @@ Monday 11:00-noon (starts September 8th)
 
 ## Links
 
-Discussion board using [Piazza](https://piazza.com/class/meu39nhxb902uz/) (monitored by TAs)
+Discussion board using [Piazza](https://piazza.com/utoronto.ca/fall2025/csc417) (monitored by TAs)
 Hand in assignments using MarkUs (Coming Soon).   
 
 ## Course Overview
@@ -94,7 +94,7 @@ programming in Python.
 ## Lecture Schedule (Due dates are day/month)
 | **Dates**  | **Topic**                             | **Assignments**                                     |
 | ---------- | ------------------------------------- | --------------------------------------------------- |
-| 9/3/2025   | Introduction                          |                                                     |
+| 9/3/2025   | [Introduction](lectures/01-introduction.pdf) [Video (old)](https://youtu.be/5j37DOD8q4U?si=8GO7cPZwF80AkF4q)                        |                                                     |
 | 9/10/2025  | Deformation and Finite Element Method |                                                     |
 | 9/17/2025  | From Energy to Motion                 |                                                     |
 | 9/24/2025  | Cloth Simulation                      | Release A1: Finite Element Methods                  |
@@ -104,9 +104,9 @@ programming in Python.
 | 10/22/2025 | Material Point Method                 |                                                     |
 | 11/5/2025  | Reduced-Order Models                  | Assignment 2 Due, Release A3: Fluids                |
 | 11/11/2025 | ***Drop Deadline***                   |                                                     |
-| 11/12/2025 | Fast Physics Solvers                  | Assignment 3 Due, Release A4:  Reduced/Fast Methods |
-| 11/19/2025 | Beyond Elasticity                     |                                                     |
-| 11/26/2025 | ***Final Exam***                      | Assignment 4 Due                                    |
+| 11/12/2025 | Fast Physics Solvers                  |                                                     |
+| 11/19/2025 | Beyond Elasticity                     | Assignment 3 Due, Release A4:  Reduced/Fast Methods  |                                         
+| 11/26/2025 | ***Final Exam***                      | Assignment 4 Due  December 3rd                                    |
 
 
 ## Grading
