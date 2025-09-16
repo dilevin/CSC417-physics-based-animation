@@ -96,7 +96,7 @@ programming in Python.
 | ---------- | ------------------------------------- | --------------------------------------------------- |
 | 9/3/2025   | [Introduction](lectures/01-introduction.pdf) [Video (old)](https://youtu.be/5j37DOD8q4U?si=8GO7cPZwF80AkF4q)                        |                                                     |
 | 9/10/2025  | [Deformation and Finite Element Method](lectures/02-deformation_and_fem.pdf) [Video (old)](https://youtu.be/ngaYNdNtbec?si=ROJ-lVhrbFdENgW1) |                                                     |
-| 9/17/2025  | [From Energy to Motion](lectures/03-from_energy_to_motion.pdf) [Video (old)](https://youtu.be/ngaYNdNtbec?si=ROJ-lVhrbFdENgW1)               |                                                     |
+| 9/17/2025  | [From Energy to Motion](lectures/03-from_energy_to_motion.pdf) [Video (old)](https://youtu.be/RsdyeUyWss0?si=Bu_vsOBtaWVRQq2J)               |                                                     |
 | 9/24/2025  | Cloth Simulation                      | Release A1: Finite Element Methods                  |
 | 10/1/2025  | Rigid Bodies / Affine Body Dynamics   |                                                     |
 | 10/8/2025  | Collisions                            |                                                     |
