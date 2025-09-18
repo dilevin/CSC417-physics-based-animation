@@ -90,6 +90,8 @@ programming in Python.
 [libigl for geometry processing](https://libigl.github.io)
 
 [NVIDIA Warp Documentation](https://nvidia.github.io/warp/)
+
+[Physics-Based Animation Textbook by Minchen Li](https://phys-sim-book.github.io)
   
 ## Lecture Schedule (Due dates are day/month)
 | **Dates**  | **Topic**                             | **Assignments**                                     |
