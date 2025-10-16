@@ -102,7 +102,7 @@ programming in Python.
 | 9/24/2025  | [From Energy to Motion](lectures/03-from_energy_to_motion.pdf) [Video (old)](https://youtu.be/RsdyeUyWss0?si=Bu_vsOBtaWVRQq2J)                   | Release [A1: Finite Element Methods](https://github.com/dilevin/pba-assignment-fem)                 |
 | 10/1/2025  | [Rigid Bodies / Affine Body Dynamics](lectures/04-rigid-and-affine-bodies.pdf) [Rotaion Matrix Derivative](https://youtu.be/1RF7j-Yc21c?si=WfkdPLmxO6DqN1pV)   |                                                     |
 | 10/8/2025  | [Collisions](lectures/05-affine-bodies-contact.pdf)                          |                                                     |
-| 10/15/2025 | Intro to Fluid Simulation             | Assignment 1 Due, Release A2:  Affine Body Dynamics |
+| 10/15/2025 | [Intro to Fluid Simulation](lectures/CSC417-Fluids-Annotated.pdf) [Fluids Video (old)](https://youtu.be/VddQZH_Ppd0?si=NWFouKxs3XK0c3JA)             | Assignment 1 Due, Release A2:  Affine Body Dynamics |
 | 10/22/2025 | Material Point Method                 |                                                     |
 | 11/5/2025  | Reduced-Order Models                  | Assignment 2 Due, Release A3: Fluids                |
 | 11/11/2025 | ***Drop Deadline***                   |                                                     |
