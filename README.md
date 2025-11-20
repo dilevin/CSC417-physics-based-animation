@@ -107,7 +107,7 @@ programming in Python.
 | 11/5/2025  | [Reduced-Order Models](lectures/06-reduced_order_models.pdf)                  | Release [A3: Fluids](https://github.com/panuelosj/pba-assignment-fluids), Assignment 2 Due November 7th                |
 | 11/11/2025 | ***Drop Deadline***                   |                                                     |
 | 11/12/2025 | [Fast Physics Solvers](lectures/07-fast-solvers.pdf)                  |                                                     |
-| 11/19/2025 | Beyond Elasticity                     | Assignment 3 Nov. 21, Release A4 (Friday):  Reduced/Fast Methods  |                                         
+| 11/19/2025 | Beyond Elasticity                     | Assignment 3 Nov. 21, [Release A4 (Friday):  Coordinate Descenet](https://github.com/tytrusty/pba-assignment-cd)  |                                         
 | 11/26/2025 | ***Final Exam***                      | Assignment 4 Due  December 5th                                    |
 
 
